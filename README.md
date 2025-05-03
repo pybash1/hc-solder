@@ -1,7 +1,7 @@
 # hc-solder
 This is a mini touch sensor circuit using a simple NPN transistor. The circuit uses the human body's electrical resistance to complete the circuit, the small voltage from the body(when we touch the exposed pads) goes to the base of the transistor which then lets the current from the 9V battery pass onto the LED via the transistor.
 
-By 
+By `@pybash` on Slack
 
 # Schematic
 ![image](https://github.com/user-attachments/assets/4c9af207-c7cb-439a-8e22-e74e775d0c19)
